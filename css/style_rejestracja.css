@@ -1,0 +1,116 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0 auto;
+}
+
+body {
+    margin-left: 0 !important;
+    padding: 0;
+    background-color: black;
+    color: white;
+    padding: 40px;
+    width: 100%;
+    height: 150vh; 
+    display: block;
+    text-align: center; 
+    background-image: url(background.jpg);
+    background-size: cover;
+    text-shadow: 2px 2px 8px black;
+}
+
+.error {
+    color: rgb(255, 81, 81);
+    margin-top: 10px;
+    margin-bottom: 10px;   
+}
+
+.g-recaptcha {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.fa-address-book-o {
+    background-color: black;
+}
+
+.register-text {
+    font-size: 18px;
+}
+
+h1 {
+    color: white;
+    text-shadow: 3px 3px 9px black;
+}
+
+hr {
+    background: white;
+}
+
+.button{
+    background: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 20px;
+}
+
+.button:hover{
+    background: #fff;
+    color: #000;
+}
+
+a.login:link
+{
+    color: white;
+    text-decoration: none;
+    text-shadow: 2px 2px 8px black;
+    font-size: 20px;
+}
+
+
+a.login:visited
+{
+    color: white;
+    text-shadow: 2px 2px 8px black;
+    font-size: 20px;
+}
+
+a.login:hover
+{
+    color: #6cf3f9;
+    text-shadow: 2px 2px 8px black;
+    font-size: 20px;
+}
+
+a.login:active
+{
+    color: white;
+    text-shadow: 2px 2px 8px black;
+    font-size: 20px;
+}
+
+a.register:link
+{
+    color: white;
+    text-decoration: none;
+    text-shadow: 2px 2px 8px black;
+}
+
+
+a.register:visited
+{
+    color: white;
+    text-shadow: 2px 2px 8px black;
+}
+
+a.register:hover
+{
+    color: #6cf3f9;
+    text-shadow: 2px 2px 8px black;
+}
+
+a.register:active
+{
+    color: white;
+    text-shadow: 2px 2px 8px black;
+}
+

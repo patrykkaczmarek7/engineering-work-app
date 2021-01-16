@@ -1,0 +1,84 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+    margin: 0 !important;
+    padding: 0;
+    background-color: black;
+    }
+
+.login-form {
+    color: white;
+    padding: 40px;
+    width: 100%;
+    height:100vh; 
+    display:block;
+    text-align: center; 
+    background-image: url(background.jpg);
+    background-size: cover;
+    text-shadow: 2px 2px 8px black;
+}
+
+.fa-address-book-o {
+    background-color: black;
+}
+
+.login_text {
+    font-size: 18px;
+}
+
+h1 {
+    color: white;
+    text-shadow: 3px 3px 9px black;
+}
+
+hr {
+    background: white;
+}
+
+.button{
+    background: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 20px;
+}
+
+.button:hover{
+    background: #fff;
+    color: #000;
+    transition-duration: 0.4s;
+}
+
+a.register:link
+{
+    color: white;
+    text-decoration: none;
+    text-shadow: 2px 2px 8px black;
+    font-size: 20px;
+}
+
+
+a.register:visited
+{
+    color: white;
+    text-shadow: 2px 2px 8px black;
+    font-size: 20px;
+}
+
+a.register:hover
+{
+    color:  #6cf3f9;
+    font-size: 21px;
+    text-shadow: 2px 2px 8px black;
+    font-size: 21px;
+}
+
+
+
+a.register:active
+{
+    color: white;
+    text-shadow: 2px 2px 8px black;
+    font-size: 20px;
+}
